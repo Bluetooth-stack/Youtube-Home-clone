@@ -1,2 +1,3 @@
 # Youtube-Home-clone
-Clone of YouTube Home page
+
+Its just a simple replication of YouTube Home Page with HTML and CSS, no responsiveness or functionality added yet.
